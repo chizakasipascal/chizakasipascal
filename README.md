@@ -2,7 +2,7 @@ Hello , I'm Chiza Kasi PASCAL! 👋
 
 🔭 I’m currently working on open source projects.
 🌱 I’m currently learning machine learning...
-💬 Ask me about Flutter,Kotlin,Laravel
+💬 Ask me about C#,Flutter,Kotlin,Laravel
 📫 How to reach me: LinkedIn : [@CHIZA KASI](https://www.linkedin.com/in/chiza-kasi-5288031b5/)
 Twitter : [@KasiChiza](https://twitter.com/KasiChiza)
 
