@@ -6,7 +6,7 @@ Who am I?
 
 Software engineer inspired by Mobile and JavaScript technologies 👀. Working experience with the technologies included in the toolkit below.
 
-I create apps for both web and Android & ios, mostly using Flutter and Javascript
+I create apps for both web and Android & ios, mostly using Flutter and React-native
 
 <hr></hr>
 
