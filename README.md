@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt=".net Logo" with="20" height="20" />[@KasiChiza](https://twitter.com/KasiChiza). 
 stackoverflow :[@chizakasi](https://stackexchange.com/users/19216415/chiza-kasi)
 Smartr :[@pascal](https://www.smartr.me/me/pascal.chizakasi)
-Indeed :[@chizakais](https://profile.indeed.com/?hl=en&co=US&from=gnav-jobsearch--indeedmobile&_ga=2.149767218.562871852.1661255722-1720031196.1661255722)
+Indeed :[@chizakasi](https://profile.indeed.com/?hl=en&co=US&from=gnav-jobsearch--indeedmobile&_ga=2.149767218.562871852.1661255722-1720031196.1661255722)
