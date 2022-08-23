@@ -53,3 +53,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt=".net Logo" with="20" height="20" />[@CHIZA KASI](https://www.linkedin.com/in/chiza-kasi-5288031b5/). 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt=".net Logo" with="20" height="20" />[@KasiChiza](https://twitter.com/KasiChiza). 
 stackoverflow :[@chizakasi](https://stackexchange.com/users/19216415/chiza-kasi)
+Smart :[@pascal](https://www.smartr.me/me/pascal.chizakasi)
