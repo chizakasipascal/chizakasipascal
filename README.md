@@ -31,12 +31,6 @@ I create apps for both web and Android & ios, mostly using Flutter and React-nat
 ---
  versioning tools 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  alt=".net Logo" with="50" height="50" />
----
-<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chizakasipascal&theme=radical&layout=compact)](https://github.com/chizakasipascal/github-readme-stats)
-
-![chizakasipascal GitHub stats](https://github-readme-stats.vercel.app/api?username=chizakasipascal&show_icons=true&theme=radical)
 
 <!--
 **chizakasipascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
