@@ -4,9 +4,9 @@
 
 Who am I?
 
-Software engineer inspired by Mobile and JavaScript technologies 👀. Working experience with the technologies included in the toolkit below.
-
-I create apps for both web and Android & ios, mostly using Flutter and React-native
+I'm a senior software engineer with years of experience in enterprise applications.
+I am proficient in drawing up plans, managing projects and user documentation.
+Passionate about IT, I like working in a team to provide the most appropriate solutions to the situation. Software engineer inspired by mobile and web technologies. I build web, Android and iOS apps, mostly using Flutter framework, React and for native code I was using Kotlin for Android.
 
 <hr></hr>
 
@@ -28,25 +28,6 @@ I create apps for both web and Android & ios, mostly using Flutter and React-nat
  Code editor 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt=".net Logo" with="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  alt=".net Logo" with="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt=".net Logo" with="50" height="50" />
 
----
- versioning tools 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  alt=".net Logo" with="50" height="50" />
+ 
 
-<!--
-**chizakasipascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt=".net Logo" with="20" height="20" />[@CHIZA KASI](https://www.linkedin.com/in/chiza-kasi-5288031b5/). 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt=".net Logo" with="20" height="20" />[@KasiChiza](https://twitter.com/KasiChiza). 
-stackoverflow :[@chizakasi](https://stackexchange.com/users/19216415/chiza-kasi)
-Smartr :[@pascal](https://www.smartr.me/me/pascal.chizakasi)
