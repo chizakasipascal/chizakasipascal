@@ -4,9 +4,7 @@
 
 Who am I?
 
-I'm a senior software engineer with years of experience in enterprise applications.
-I am proficient in drawing up plans, managing projects and user documentation.
-Passionate about IT, I like working in a team to provide the most appropriate solutions to the situation. Software engineer inspired by mobile and web technologies. I build web, Android and iOS apps, mostly using Flutter framework, React and for native code I was using Kotlin for Android.
+I am a software engineer with years of experience in enterprise application development. I am skilled in drawing up plans, project management and user documentation. Passionate about IT, I enjoy working in a team to provide the most appropriate solutions to the situation. Software engineer inspired by mobile and web technologies. I create web, Android and iOS applications, mainly using Flutter, React ,Swift framework and for native code I used Kotlin, Java for Android.
 
 <hr></hr>
 
