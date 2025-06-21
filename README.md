@@ -35,9 +35,7 @@ Proficient in project planning, technical documentation, and agile teamwork
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".net Logo" with="50" height="50" />
  
  ---
- Code editor 
- <hr></hr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt=".net Logo" with="50" height="50" />
+ Code editor  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt=".net Logo" with="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt=".net Logo" with="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  alt=".net Logo" with="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt=".net Logo" with="50" height="50" />
