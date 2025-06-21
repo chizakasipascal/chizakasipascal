@@ -1,11 +1,21 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Chiza kasi Pascal !
 
 <hr></hr>
+I’m a passionate and dedicated software engineer with several years of experience in building modern, high-performance web and mobile applications.
 
-Who am I?
+✅ Strong technical expertise:
 
-I am a software engineer with years of experience in enterprise application development. I am skilled in drawing up plans, project management and user documentation. Passionate about IT, I enjoy working in a team to provide the most appropriate solutions to the situation. Software engineer inspired by mobile and web technologies. I create web, Android and iOS applications, mainly using Flutter, React ,Swift framework and for native code I used Kotlin, Java for Android.
+Native and cross-platform mobile development (Flutter, Kotlin, Java, Swift)
 
+Dynamic and responsive web development with Next.js, React, and Tailwind CSS
+
+Scalable backend architecture using NestJS
+
+Proficient in project planning, technical documentation, and agile teamwork
+
+🌐 Whether it's Android, iOS, or web platforms, I bring innovative and reliable solutions tailored to real-world needs. I take pride in delivering quality results through collaboration and user-focused design.
+
+👉 If you’re looking for a versatile, passionate, and results-driven developer to join your team or elevate your project — let’s connect! I’m ready to bring your vision to life.
 <hr></hr>
 
 🧰 
