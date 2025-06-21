@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Chiza kasi Pascal !
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Pascal KASI C. !
 
 <hr></hr>
 I’m a passionate and dedicated software engineer with several years of experience in building modern, high-performance web and mobile applications.
