@@ -5,7 +5,7 @@ I’m a passionate and dedicated software engineer with several years of experie
 
 ✅ Strong technical expertise:
 
-Native and cross-platform mobile development (Flutter, Kotlin, Java, Swift)
+Native and cross-platform mobile development (Flutter,React-Native,Kotlin, Swift)
 
 Dynamic and responsive web development with Next.js, React, and Tailwind CSS
 
