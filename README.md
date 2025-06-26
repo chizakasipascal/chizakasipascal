@@ -15,7 +15,7 @@ Proficient in project planning, technical documentation, and agile teamwork
 
 🌐 Whether it's Android, iOS, or web platforms, I bring innovative and reliable solutions tailored to real-world needs. I take pride in delivering quality results through collaboration and user-focused design.
 
-👉 If you’re looking for a versatile, passionate, and results-driven developer to join your team or elevate your project — let’s connect! I’m ready to bring your vision to life.
+👉 If you’re looking for a versatile, passionate, and results-driven developer to join your team or elevate your project — let’s connect! I’m ready to bring your vision to life. pascalkasichiza@gmail.com
 <hr></hr>
 
 🧰 
